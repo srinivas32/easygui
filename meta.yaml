@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 package:
   name: easygui
   version: "0.98.1.1"
